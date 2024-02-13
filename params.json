@@ -1,0 +1,13 @@
+{
+  "project_name": "PEPE",
+  "main_path": "/home/mekkoandy/development/Documents/",
+  "random_items_list": [[], [], []],
+  "picture_limit": 2048,
+  "rare_picture_limit": 1024,
+  "legendary_picture_limit": 8,
+  "make_dirs": false,
+  "process_data": true,
+  "prepare_metadata": true,
+  "launch_generation": true,
+  "mess_module": true
+}
